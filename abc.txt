@@ -1,3 +1,6 @@
 this is the file abc.txt
-line 2
+line for new file
 line 3
+line 4 is added later on 
+line 2 was changed
+
